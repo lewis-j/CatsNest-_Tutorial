@@ -26,6 +26,9 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Tutorial Attribution
+[CATS NEST!](https://sdoxsee.github.io/blog/2020/02/05/cats-nest-nestjs-mongo-oidc.html) OpenID Connect Authentication with NestJS, React, and MongoDB
+
 ## Installation
 
 ```bash
